@@ -9,7 +9,6 @@ void space(int numberOfTimes)
     {
         cout << endl;
     }
-
 }
 
 
